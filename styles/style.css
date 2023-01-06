@@ -24,7 +24,7 @@ header{
 	padding-top: 100px;
 }
 .h-title{
-	background-color: 	#b2d8d8;
+	background-color: 	#d4d8d4;
 	box-shadow: 5px 5px 30px teal;
 	border-radius: 30px;
 }
@@ -48,4 +48,182 @@ header{
 .firstbtn{
 	text-align: center;
 	margin:25px;
+}
+/* Body Style Starts*/
+.Donate-today{
+	text-align: center;
+	padding: 30px;
+	font-size: 35px;
+}
+.Donate-today p{
+	font-size: 21px;
+	padding:15px 150px;
+}
+.btn-second{
+	padding:25px 25px;
+	font-size: 24px;
+	margin: 20px;
+	border: none;	
+	font-weight:700;
+	border-radius: 5px;
+}
+.btn-second:hover{
+	background-color: #ffe2c6	;
+	border:1px #ff6666 solid;
+	color: #ff6666;	
+}
+.Donate-today hr{
+	margin: 0 260px;
+}
+.amount{
+	opacity:0.5;
+}
+.other-amount{
+	border: none;
+	border-bottom: 1px black solid;
+	padding: 5px 200px;
+	font-size: 20px;
+	font-weight:400;
+	text-align: center;
+}
+
+/* Donate Plan */
+.Donate-plan{
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 100px;
+	
+}
+.Donate-plan >p{
+	font-size: 20px;
+	padding: 10px 250px;
+}
+.plan-details{
+	display: flex;
+	gap: 25px;
+	justify-content: space-between;
+	margin: 40px 150px;
+	padding:25px;
+	
+}
+.DP-details{
+	background:#dcf3ff;
+	padding:40px 20px;
+	box-shadow: 5px 5px 10px #dcf3ff;
+	text-align: left;
+	border-radius: 5px;
+}
+.DP-details img{
+	padding-top:10px;
+	height:80px;
+	width:80px;
+	
+}
+.DP-details h2{
+	padding: 20px 0;
+	font-size: 28px;
+}
+.DP-details p{
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+/* Contribute Detail*/
+.ht-contribute{
+	display: flex;
+	gap: 30px;
+	margin: 0 165px;
+	margin-bottom: 15px;
+}
+.contribute-detail{
+	width:50%;	
+}
+.contribute-detail h1{
+	font-size: 45px;
+	font-weight:700;
+	padding-bottom: 20px;
+}
+.contribute-detail p{
+	font-size: 25px;
+	line-height: 30px;
+	padding-bottom: 30px;
+}
+
+.contribute-img{
+	width:50%;
+}
+.contribute-img img{
+	height: 500px;
+	width: 100%;
+}
+/*second contribute post*/
+.ht-contribute1{
+	padding-top: 30px;
+	display: flex;
+	gap: 30px;
+	margin: 0 165px;
+}
+.contribute-detail1{
+	width:50%;
+	text-align:left;
+}
+.contribute-detail1 >h1{
+	font-size: 45px;
+	font-weight:700;
+	padding-bottom: 20px;
+}
+.contribute-detail1 >p{
+	font-size: 25px;
+	line-height: 30px;
+	padding-bottom: 30px;
+}
+
+.contribute-img1{
+	width:50%;
+	text-align: left;
+	
+}
+.contribute-img1>img{
+	height: 500px;
+	width: 100%;
+}
+footer{
+	margin: 105px 165px;
+	text-align: center;
+}
+
+.updates h1{
+	font-size: 45px;
+	line-height: 30px;
+	padding-bottom: 30px;
+}
+.updates p{
+	font-size: 25px;
+	line-height: 30px;
+	padding-bottom: 80px;
+	text-align: center;
+	padding:0 200px;
+}
+.subscribe{
+	height: 200px;
+	margin-top: 60px;
+	background: #ffe9dc;
+	display: flex;
+	gap:0;
+	align-items: center;
+	padding: 0 250px;
+	
+	
+	
+}
+.email{
+	padding: 10px 15px;
+	font-size: 24px;
+	color: white;
+	background-color:#d2d2d2;
+	border: none;
+	border-radius: 5px;
+	margin-right:0;
+}
+.text-sixe{
+	font-size: 24px;
 }
