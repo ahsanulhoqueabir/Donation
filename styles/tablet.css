@@ -1,0 +1,113 @@
+@media screen and (min-width: 588px) and (max-width:992px) {
+header{
+	height: 520px;
+}	
+.header-title{
+	font-size: 24px;
+	padding-top: 50px;
+}
+.h-title{
+	border-bottom: 4px solid #66b2b2;
+	border-radius: 10px;	
+}
+.header-desc p{
+	font-size: 24px;
+	text-align: center;
+	padding: 25px 10px 25px 10px;
+}
+.btn-tk{
+	display: grid;
+	grid-template-columns: repeat(5,1fr);
+}
+.btn-second{
+	padding:10px 15px;
+	font-size: 24px;
+	margin: 5px;
+}
+.other-amount{
+	padding: 5px 20px;
+	font-size: 18px;
+}
+.Donate-plan >p{
+	font-size: 24px;
+	padding: 15px 10px;
+}
+.plan-details{
+	display: grid;
+	grid-template-columns:repeat(3,1fr);
+	gap: 15px;
+	margin: 10px 10px;
+	padding:10px;	
+}
+.ht-contribute{
+	margin: 0 0px;
+	margin-bottom: 15px;
+	padding: 20px;
+}
+.contribute-detail h1{
+	font-size: 30px;
+	font-weight:700;
+	padding-bottom: 20px;
+}
+.contribute-detail p{
+	font-size: 20px;
+	line-height: 25px;
+	padding-bottom: 30px;
+}
+.ht-contribute1{
+	margin: 0 0px;
+	margin-bottom: 15px;
+	padding: 20px;
+}
+.contribute-detail1 >h1{
+	font-size: 30px;
+	font-weight:700;
+	padding-bottom: 20px;
+}
+.contribute-detail1 >p{
+	font-size: 20px;
+	line-height: 25px;
+	padding-bottom: 30px;
+}
+.up-sub{
+	margin: 50px auto 0px auto;
+	text-align: center;
+}
+.updates h1{
+	font-size: 30px;
+	font-weight:700;
+	line-height: 30px;
+	padding-bottom: 0px;
+}
+.updates p{
+	font-size: 20px;
+	line-height: 30px;
+	padding-bottom: 10px;
+	text-align: center;
+	padding:10px 10px;
+}
+.subscribe{
+	height: 200px;
+	margin: 25px 20px;
+	align-items: center;
+	justify-content: center;
+	padding: 0 10px;
+	border-radius: 15px;
+}
+.email{
+	padding: 10px 15px;
+	font-size: 20px;
+	margin:0;
+}
+.text-sixe{
+	font-size: 20px;
+	margin-left: -5px;
+}
+footer{
+	padding:20px 10px;
+}
+.footer{
+	font-size: 20px;
+}	
+	
+}

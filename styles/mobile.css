@@ -1,0 +1,170 @@
+
+@media screen and (max-width: 588px) {
+	header{
+	background-image: linear-gradient(#e1f7d5, black), url('../img/header.jpg');
+	height: 250px;
+	width: 100%;
+}
+.header-title{
+	font-size: 14px;
+	padding-top: 10px;
+}
+.h-title{
+	border-bottom: 2px solid #66b2b2;
+	border-radius: 10px;	
+}
+.header-desc p{
+	font-size: 14px;
+	text-align: justify;
+	margin: 15px 10px 15px 10px;
+}
+.btn-primary{
+	padding: 8px 10px;
+	font-size: 15px;	
+}
+.firstbtn{
+	margin:10px;
+}
+/* Body Style Starts*/
+.Donate-today{
+	padding: 20px;
+	font-size: 14px;
+}
+.Donate-today p{
+	font-size: 14px;
+	padding:15px 10px;
+}
+.btn-second{
+	padding:10px 10px;
+	font-size: 14px;
+	margin: 5px;
+}
+.btn-tk{
+	display: grid;
+	grid-template-columns: repeat(5,1fr);
+}
+.other-amount{
+	padding: 5px 10px;
+	font-size: 14px;
+}
+/* Donate Plan */
+.Donate-plan{
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.Donate-plan >p{
+	font-size: 14px;
+	padding: 10px 10px;
+}
+.plan-details{
+	display: grid;
+	grid-template-columns:repeat(1,1fr);
+	gap: 20px;
+	margin: 10px 10px;
+	padding:10px;	
+}
+.DP-details{
+	padding:10px 10px;
+}
+.DP-details h2{
+	padding: 10px 0;
+	font-size: 18px;
+}
+/* Contribute Detail*/
+.ht-contribute{
+	display: flex;
+	flex-direction: column-reverse;
+	gap: 10px;
+	margin: 0 0px;
+	margin-bottom: 10px;
+}
+.contribute-detail{
+	width:100%;
+	padding: 10px;
+}
+.contribute-detail h1{
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+.contribute-detail p{
+	font-size: 14px;
+	line-height: 25px;
+	padding:0px 10px 10px 0px;
+}
+.contribute-img{
+	width:100%;
+	padding: 10px 10px 0px 10px;
+	border-radius: 10px;
+}
+.contribute-img img{
+	border-radius: 10px;
+}
+/*second contribute post*/
+.ht-contribute1{
+	padding: 10px 10px 0px 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin: 0 0px;
+}
+.contribute-detail1{
+	width:100%;
+}
+.contribute-detail1 >h1{
+	font-size: 16px;
+	padding:0px 10px 10px 0px;
+}
+.contribute-detail1 >p{
+	font-size: 14px;
+	line-height: 25px;
+	padding:0px 10px 10px 0px;
+}
+.contribute-img1{
+	width:100%;
+	padding: 10px 10px 0px 10px;
+	
+}
+.contribute-img1 img{
+	border-radius: 10px;
+}
+.up-sub{
+	margin: 20px auto 0px auto;
+	text-align: center;
+}
+.updates h1{
+	font-size: 14px;
+	line-height: 30px;
+	padding-bottom: 0px;
+}
+.updates p{
+	font-size: 14px;
+	line-height: 25px;
+	padding-bottom: 10px;
+	text-align: center;
+	padding:10px 10px;
+}
+.subscribe{
+	height: 100px;
+	margin-top: 10px;
+	align-items: center;
+	justify-content: center;
+	padding: 0 10px;
+}
+.email{
+	padding: 8px 10px;
+	font-size: 14px;
+	background-color:#d2d2d2;
+	border: none;
+	border-radius: 5px;
+	margin:0;
+}
+.text-sixe{
+	font-size: 14px;
+}
+footer{
+	padding:10px 10px;
+}
+.footer{
+	font-size: 12px;
+}
+}
